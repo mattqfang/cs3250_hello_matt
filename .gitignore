@@ -1,5 +1,1 @@
-/.metadata/
-HelloMatt/.project
-HelloMatt/.classpath
-HelloMatt/.settings/org.eclipse.m2e.core.prefs
-HelloMatt/.settings/org.eclipse.jdt.core.prefs
+/target/
